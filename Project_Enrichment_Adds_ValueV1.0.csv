@@ -1,0 +1,26 @@
+﻿ID,Description,Owner,Type,StatusSummary,Start Date,End Date,ProgressPercent,ProgressBand,OutcomeSummary,OutcomeSourceQuality,Deliverable Count,Deliverable Codes,Deliverable Categories
+ASS-001,Growing demand for telecom capacity in APAC markets requires expansion of network infrastructure,Justin Sector,Portfolio,On Track,,,60%,50-74%,,,,,
+ASS-003,Customer Satisfaction Improvement as a means for growth,Clive Smith,Program,On Watch,,,2%,0-24%,,,,,
+ASS-004,IT as a means to increase employee satisfaction and sustain growth,Louise Jones,Portfolio,Troubled,,,28%,25-49%,,,,,
+ASS-005,Maintain competitiveness against regional providers,Clive Smith,Program,Troubled,,,24%,0-24%,,,,,
+GOA-001,Enable Bottom up improvement to increase efficiency and effectiveness,Louise Jones,Small Program,On Watch,,,32%,25-49%,,,,,
+GOA-002,Generate Sales Revenue of £200M,Clive Smith,Program,On Watch,,,12%,0-24%,,,,,
+GOA-003,Generate Market Share of 10%,Clive Smith,Program,On Watch,,,13%,0-24%,,,,,
+GOA-004,Attain Share Price growth of 15 percent from £100 to £115 in 2 years,Clive Smith,Portfolio,Troubled,,,15%,0-24%,,,,,
+PRO-006,Blue Yonder Airline Flight Rewards System Integration,Isaiah Langer,Project,On Track,3/16/2020,5/10/2020,0%,Not Started,None planned to be ready,Full,3,"ASS-003, GOA-003, GOA-004","ASS, GOA"
+PRO-013,Release Campaign for CFO Product,Nestor Wilke,Small Project,On Track,6/4/2020,8/26/2020,0%,Not Started,None planned to be ready,Full,2,"GOA-002, GOA-004",GOA
+PRO-020,Light Rail Interactive Map and Fare Purchase Mobile App,Isaiah Langer,Project,On Track,7/1/2019,12/18/2019,65%,50-74%,"Development complete, underg...",Partial,3,"ASS-003, GOA-002, GOA-003","ASS, GOA"
+PRO-028,APAC Network Expansion,Nestor Wilke,Project,On Track,5/10/2020,10/27/2020,0%,Not Started,None planned to be ready,Full,5,"ASS-001, ASS-005, GOA-002, GOA-003, GOA-004","ASS, GOA"
+PRO-029,Bay Plaza,Grady Archie,Major Project,On Watch,5/6/2019,8/26/2022,6%,0-24%,Delayed starting,Full,2,"GOA-001, GOA-004",GOA
+PRO-030,West Coast Network and Local Network Router Upgrade,Lynne Robbins,Small Project,On Track,10/2/2020,2/2/2021,0%,Not Started,None planned to be ready,Full,2,"ASS-004, ASS-005",ASS
+PRO-031,Test Facility Scheduler Refresh,Isaiah Langer,Small Project,On Track,1/20/2020,11/2/2020,0%,Not Started,None planned to be ready,Full,3,"ASS-002, ASS-004, GOA-001","ASS, GOA"
+PRO-034,Southbridge Central Building Facility,Lynne Robbins,Major Project,On Track,7/1/2019,8/1/2020,64%,50-74%,Facility available to Employee...,Partial,2,"GOA-001, GOA-004",GOA
+PRO-035,Server Hardware Refresh for Paris Data Center,Isaiah Langer,Small Project,On Track,3/6/2019,5/25/2020,20%,0-24%,Facility available to Employee...,Partial,2,"ASS-004, ASS-005",ASS
+PRO-037,Employee Self-Service Health Enrollment,Lynne Robbins,Major Project,On Track,9/3/2020,3/20/2020,0%,Not Started,None planned to be ready,Full,3,"ASS-002, ASS-004, GOA-001","ASS, GOA"
+PRO-038,Portal Development for New E-Commerce Business,Isaiah Langer,Major Project,On Watch,2/18/2019,2/12/2019,73%,50-74%,"Solution delivered, adoption pla...",Partial,4,"ASS-003, GOA-002, GOA-003, GOA-004","ASS, GOA"
+PRO-039,Online Payment Feature for E-commerce Site,Grady Archie,Major Project,Troubled,8/19/2019,7/1/2020,14%,0-24%,Product design agreed,Full,4,"ASS-003, GOA-002, GOA-003, GOA-004","ASS, GOA"
+PRO-040,Northwind Traders Data Center,Lynne Robbins,Small Project,On Watch,1/28/2019,11/25/2020,29%,25-49%,Product design agreed,Full,2,"ASS-004, ASS-005",ASS
+PRO-042,Network Server Upgrade for Central US,Grady Archie,Small Project,On Track,5/13/2019,7/22/2020,22%,0-24%,Design agreed,Full,2,"ASS-004, ASS-005",ASS
+PRO-043,Lucerne Publishing Shipping Center Facility,Lynne Robbins,Major Project,On Track,3/16/2020,7/4/2021,0%,Not Started,None planned to be ready,Full,1,GOA-004,GOA
+PRO-044,Inventory Access iOS Application Development,Megan Bowen,Small Project,On Track,7/15/2019,4/10/2019,60%,50-74%,"Supplier solution accepted, ado...",Partial,3,"ASS-002, ASS-004, GOA-001","ASS, GOA"
+PRO-046,Denali Office Park,Nestor Wilke,Major Project,On Watch,4/2/2019,10/8/2021,29%,25-49%,"Delayed, but architect appointed",Full,1,GOA-004,GOA
